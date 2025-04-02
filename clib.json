@@ -1,6 +1,6 @@
 {
     "name": "container_of",
-    "version": "0.0.0",
+    "version": "0.1.0",
     "repo": "goodcleanfun/container_of",
     "description": "A simple container_of macro to get a pointer to a struct from a given member using offsets",
     "keywords": [],
