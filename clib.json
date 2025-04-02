@@ -1,0 +1,14 @@
+{
+    "name": "container_of",
+    "version": "0.0.0",
+    "repo": "goodcleanfun/container_of",
+    "description": "A simple container_of macro to get a pointer to a struct from a given member using offsets",
+    "keywords": [],
+    "license": "MIT",
+    "development": {
+      "silentbicycle/greatest": "*"
+    },
+    "src": [
+      "src/container_of.h"
+    ]
+  }
